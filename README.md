@@ -241,6 +241,7 @@ A collection of third party add-ons for [Gravity Forms](http://www.gravityforms.
 - [Nutshell Gravity Forms WordPress Plugin](hhttps://wordpress.org/plugins/wp-gf-nutshell/) -
   The plugin creates Nutshell entries form GravityForms submissions.
 - [PDF Builder for Gravity](https://wordpress.org/plugins/pdf-builder-for-gravity/) - Design your own pdf in seconds with the first and only drag and drop builder. No coding experience required.
+- [WPSyncSheets For Gravity Forms](https://wordpress.org/plugins/wpsyncsheets-gravity-forms/) - WPSyncSheets For Gravity Forms seamlessly integrates Gravity Forms with Google Sheets, ensuring that form submissions are automatically sent to your Google Sheets in real-time.
 - [WP SpreadSheets for Gravity Forms](https://wordpress.org/plugins/wp-gravity-forms-spreadsheets/) - Integrates Gravity Forms with Google Sheets allowing form submissions to be automatically sent to your Google Sheets.
 - [FormSync](https://www.wpformsync.com) - Resolves tedious, manual form migrations by Git-ifying and syncing your forms across local, staging, and production environments. Simply update your forms locally, push the updated JSON files to a git repo, and sync your forms.
 - [Razorpay for Gravity Forms](https://wordpress.org/plugins/razorpay-gravity-forms/) - Integrates Gravity Forms with Razorpay Payments, enabling end users to purchase goods and services through Gravity Forms.
